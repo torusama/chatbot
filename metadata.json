@@ -1,7 +1,0 @@
-{
-  "name": "Copy of Vietnam Foodie Assistant",
-  "description": "An AI-powered chat application that provides personalized food and restaurant recommendations in Vietnam, acting as a friendly local guide.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
